@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<biblioteca>
+    <libro>
+        <titulo genero="Informática">
+            La magia de la programación
+        </titulo>
+        <autor>
+            <nombre>
+                Lenny
+            </nombre>
+            <apellidos>
+                Fernández
+            </apellidos>
+             
+        </autor>
+        <editorial>
+            <nombre>
+            Knaya
+            </nombre>
+            <direccion>
+            Avenida de los olmos
+            </direccion>
+            <ntelefono>
+            647328608
+            </ntelefono>
+        </editorial>
+        <fechaedicion>
+            <año>
+            1999
+            </año>
+        </fechaedicion>
+        <paginas>
+           <npaginas>
+            500
+           </npaginas>
+        </paginas>
+        <precio>
+            15
+        </precio>
+
+
+          <titulo genero="sexo">
+            La magia del 69
+        </titulo>
+        <autor>
+            <nombre>
+                Aurora
+            </nombre>
+            <apellidos>
+                Soto
+            </apellidos>
+             
+        </autor>
+        <editorial>
+            <nombre>
+            Sexify
+            </nombre>
+            <direccion>
+            Avenida de los páramos
+            </direccion>
+            <ntelefono>
+            647328609
+            </ntelefono>
+        </editorial>
+        <fechaedicion>
+            <año>
+            2022
+            </año>
+        </fechaedicion>
+        <paginas>
+           <npaginas>
+            250
+           </npaginas>
+        </paginas>
+        <precio>
+            25
+        </precio>
+
+
+    </libro>
+
+
+</biblioteca>
